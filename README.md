@@ -24,4 +24,24 @@ const julio = {
         },
 }
 ```
+
+Currently working on:
+
+<a src="https://www.microverse.com/html/"><img src="https://i.im.ge/2022/06/15/rJaI6K.png" alt="rJaI6K.png" border="0"/></a>
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+
+
+[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BregornOriginal&show_icons=true&theme=ayu-mirage)](https://github.com/indigodavid/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BregornOriginal&theme=ayu-mirage&layout=compact)](https://github.com/indigodavid/github-readme-stats)
+
 ⭐️ From [@BregornOriginal](https://github.com/BregornOriginal)
