@@ -12,13 +12,13 @@
 ```javascript
 const julio = {
     pronouns: "He" | "Him",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, React, Redux, Ruby, PostgreSQL, Jest, Rspec, HTML, CSS],
     technologies:{
-        backEnd: ["nodejs", "javascript"],
-        fronEnd: ["HTML, CSS, SASS, Bootstrap"],
+        backEnd: ["nodejs", "Ruby"],
+        fronEnd: ["React, HTML, CSS, SASS, Bootstrap"],
         upcomingTechnologies: {
                               techOne: "TypeScript",
-                              techTwo: "Ruby",
+                              techTwo: "Ruby & Rails",
                               techThree: "Docker"
                                },
         },
