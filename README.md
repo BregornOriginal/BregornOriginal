@@ -12,7 +12,7 @@
 ```javascript
 const julio = {
     pronouns: "He" | "Him",
-    code: [Javascript, React, Redux, Ruby, PostgreSQL, Jest, Rspec, HTML, CSS],
+    code: [JavaScript, React, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
     technologies:{
         backEnd: ["nodejs", "Ruby"],
         fronEnd: ["React, HTML, CSS, SASS, Bootstrap"],
