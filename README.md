@@ -2,7 +2,7 @@
 
 ### Hi!, 
 ## I'm Julio
-## A Student of Full Stack Developer 👨‍💻 in Microverse online Bootcamp
+## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Julio-blue)](https://www.linkedin.com/in/julio-miguel-gagliardi-b81829197/)
 [![](https://img.shields.io/badge/hotmail-juliog_14@hotmail.com-red)](mailto:juliog_14@hotmail.com)
