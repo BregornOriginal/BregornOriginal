@@ -13,13 +13,14 @@
 ```javascript
 const julio = {
     pronouns: "He" | "Him",
-    code: [JavaScript, React, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
+    code: [Next.js, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
     technologies:{
-        backEnd: ["Ruby & Rails", "PostgreSQL", "RSpec", "Jest", "nodejs"],
-        fronEnd: ["React", "Redux", "HTML", "CSS", "SASS", "Bootstrap"],
+        backEnd: ["Ruby & Rails", "PostgreSQL", "Prisma", "Sanity", "RSpec", "Jest", "node.js", 
+        AWS, GoogleCouldServices],
+        fronEnd: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "TypeScript",],
         upcomingTechnologies: {
                               techOne: "TypeScript",
-                              techTwo: "Docker"
+                              techTwo: "Docker",
                                },
         },
 }
@@ -33,7 +34,6 @@ const julio = {
 <a src="https://es.redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux"/></a>
 <a src="https://developer.mozilla.org/es/docs/Glossary/SQL"><img src="https://img.icons8.com/color/48/000000/sql"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/api"/></a>
-<a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a><br>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -43,6 +43,10 @@ const julio = {
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker"/></a>
+<a src="https://www.nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript"/></a>
+<a src="https://www.aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon"/></a>
 
 
 
