@@ -15,12 +15,11 @@ const julio = {
     pronouns: "He" | "Him",
     code: [Next.js, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
     technologies:{
-        backEnd: ["Ruby & Rails", "PostgreSQL", "Prisma", "Sanity", "RSpec", "Jest", "node.js", 
-        AWS, GoogleCouldServices],
-        fronEnd: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "TypeScript",],
+        backEnd: ["Ruby & Rails", "PostgreSQL", "SQL", "Prisma", "Sanity", "RSpec", "Jest", "node.js", 
+        AWS, Google Cloud Services],
+        frontEnd: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "TypeScript"],
         upcomingTechnologies: {
-                              techOne: "TypeScript",
-                              techTwo: "Docker",
+                              techOne: "Docker",
                                },
         },
 }
