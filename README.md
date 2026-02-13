@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Hi!, 
+### Hi! 
 ## I'm Julio
 ## Full Stack Developer 👨‍💻
 
@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```JavaScript
 const julio = {
     pronouns: "He" | "Him",
     code: [Next.js, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
@@ -25,7 +25,7 @@ const julio = {
 }
 ```
 
-<a src="https://www.microverse.com/html/"><img src="https://i.im.ge/2022/06/15/rJaI6K.png" alt="rJaI6K.png" border="0"/></a>
+<a src="https://www.microverse.com/html/"><img src="https://cdn.prod.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" border="0" width="120"/></a>
 
 <a src="https://rubyonrails.org/"><img src="https://img.icons8.com/color/48/000000/ruby"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -38,7 +38,6 @@ const julio = {
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass"/></a>
-<a src="https://en.wikipedia.org/wiki/Responsive_web_design"><img src="https://img.icons8.com/color/48/000000/responsive"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
@@ -47,10 +46,5 @@ const julio = {
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript"/></a>
 <a src="https://www.aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon"/></a>
 
-
-
-[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BregornOriginal&show_icons=true&theme=ayu-mirage)](https://github.com/indigodavid/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BregornOriginal&theme=ayu-mirage&layout=compact)](https://github.com/indigodavid/github-readme-stats)
 
 ⭐️ From [@BregornOriginal](https://github.com/BregornOriginal)
