@@ -15,12 +15,9 @@ const julio = {
     pronouns: "He" | "Him",
     code: [Next.js, Redux, Ruby, PostgreSQL, Jest, RSpec, HTML, CSS],
     technologies:{
-        backEnd: ["Ruby & Rails", "PostgreSQL", "SQL", "Prisma", "Sanity", "RSpec", "Jest", "node.js", 
-        AWS, Google Cloud Services],
-        frontEnd: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "TypeScript"],
-        upcomingTechnologies: {
-                              techOne: "Docker",
-                               },
+        backEnd: ["Ruby & Rails", "PostgreSQL", "SQL", "Prisma", "Sanity", "RSpec", "Jest", "node.js", "python",
+        Docker, AWS, Google Cloud Services],
+        frontEnd: ["HTML", "CSS", "SASS", "JQuery", "Bootstrap", "Tailwind", "TypeScript", "React"],
         },
 }
 ```
